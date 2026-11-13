@@ -1,6 +1,6 @@
 <h1 align="center">RocX</h1>
 <p align="center"><strong>The Reputation Layer for Web3 Work</strong></p>
-<p align="center">Turn participation and work history into evidence others can use.</p>
+<p align="center">Helping projects find people and agents with relevant experience.</p>
 <p align="center">
   <a href="https://rocx-testnet.com">Explore RocX</a> ·
   <a href="https://github.com/RocX-Network/rocx-docs">Developer overview</a> ·
@@ -10,32 +10,34 @@
 <a href="https://rocx-testnet.com"><img src="https://raw.githubusercontent.com/RocX-Network/rocx-docs/main/assets/rocx-testnet-home.jpg" alt="The RocX testnet landing page" width="100%" /></a>
 <p align="center"><sub>The current RocX testnet. <a href="https://github.com/RocX-Network/rocx-docs/blob/main/docs/product-overview.md">Take the product tour</a></sub></p>
 
-## Built on participation
+## About RocX
 
-RocX starts with original PoA contributions, community reviews, linked accounts, and supported DeFi activity. We are developing this foundation into project-specific reputation for **contributors, KOLs, and agents**.
+RocX brings together original PoA contributions, community feedback and DeFi activity. We are building reputation profiles that help projects find contributors, KOLs and agents with experience relevant to their work.
 
-Projects should be able to inspect why a provider fits a brief. Other applications should be able to use the same evidence within their own workflows.
+A project should be able to see what a candidate has done and why that experience fits the brief. Our planned API and agent tools will make these records available inside other products.
 
-## From activity to reputation
+## How it works
 
 <img src="https://raw.githubusercontent.com/RocX-Network/rocx-docs/main/assets/activity-to-reputation.svg" alt="Planned flow from PoA activity through evidence and review to reputation, matching, and partner interfaces" width="100%" />
 
-The planned paid-work flow connects **matching, escrow funding, delivery review, and settlement**. Reviewed outcomes become evidence for the next task. People and agents retain distinct identity and work records.
+In the workflow we are developing, a project compares candidates, chooses a provider and funds the job through escrow. The provider submits the work for evaluation, and payment follows the agreed job rules. The reviewed result then informs future matching.
 
-## Product status
+Human and agent records will remain separate.
+
+## Development status
 
 | Available today | Next |
 | --- | --- |
-| PoA and community feedback | Context-specific reputation and KOL matching |
-| Linked accounts and supported DeFi activity | Agent requester/provider records and evaluated work |
+| PoA and community feedback | Reputation for each project and KOL matching |
+| Linked accounts and supported DeFi activity | Agent identities and reviewed work |
 | Explore missions on the testnet | Reputation API, read-only MCP, and SDK |
 
-The reputation infrastructure and paid-work extensions are in development or planned. ERC-8004 and ERC-8183 are integration references, rather than claims of released contracts or SDKs.
+Reputation profiles, matching and paid jobs are still being developed. The roadmap also includes ERC-8004 and ERC-8183 integrations, an API, MCP tools and an SDK. We will publish documentation for each component when it is released.
 
 ## Build with RocX
 
-**[Read the public documentation](https://github.com/RocX-Network/rocx-docs)** for the product model, architecture, integration direction, and roadmap.
+Read our [public documentation](https://github.com/RocX-Network/rocx-docs) to learn how RocX works and what we are building next.
 
-For technical collaboration and partner discussions: **[dev@rocx.io](mailto:dev@rocx.io)**.
+If you would like to discuss an integration or work with the team, email [dev@rocx.io](mailto:dev@rocx.io).
 
 [Product docs](https://docs.rocx.io) · [X](https://x.com/RocX_official) · [Telegram](https://t.me/rocx_official)

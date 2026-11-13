@@ -1,10 +1,7 @@
 # RocX community resources
 
-Shared public resources for the [RocX organization](https://github.com/RocX-Network).
+This repository contains the [RocX organization introduction](profile/README.md), brand assets and issue templates used across [RocX’s public repositories](https://github.com/RocX-Network).
 
-- [Organization introduction](profile/README.md)
-- [Product and developer documentation](https://github.com/RocX-Network/rocx-docs)
-- [Contributing](CONTRIBUTING.md)
-- [Security reporting](SECURITY.md)
+For an explanation of the product and its technical direction, start with [rocx-docs](https://github.com/RocX-Network/rocx-docs). If you would like to contribute, read the [contribution guidelines](CONTRIBUTING.md). Security concerns should be reported through the [private reporting process](SECURITY.md).
 
-This repository contains public documentation, brand assets, and default issue templates. It does not contain the production application, private operating configuration, or released API/SDK implementations.
+Application code, API references and SDK packages will be linked from the organization as they are released.

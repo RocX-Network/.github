@@ -1,28 +1,25 @@
 # Contributing to RocX
 
-Thank you for helping improve RocX's public documentation and developer experience.
+We welcome improvements to our documentation and ideas for making RocX useful to developers.
 
-## Where to start
+## Getting started
 
-Read [rocx-docs](https://github.com/RocX-Network/rocx-docs) and check the relevant repository's README and release status. A roadmap item is not a released feature or a stable integration contract.
+Start with [rocx-docs](https://github.com/RocX-Network/rocx-docs) and check the release status of the component you are interested in. The roadmap describes work we plan to do. Published releases explain what is available to use.
 
-For documentation corrections, open an issue or a focused pull request. For a larger integration or product proposal, describe the use case first so maintainers can confirm scope.
+For a documentation correction, open an issue or a focused pull request. If you have a larger integration in mind, describe the use case first so we can discuss it before you start building.
 
-## Useful proposals include
+## Writing a proposal
 
-- The problem and who experiences it.
-- A reproducible example or a concrete integration scenario.
-- The proposed change and how it would help.
-- Relevant public references and any compatibility concerns.
+Explain the problem, who it affects and how your proposal would help. A reproducible example or a concrete integration scenario makes it easier to understand. Include relevant public references and mention any compatibility concerns.
 
-Keep pull requests focused. Explain what changed and check that Markdown, links, and diagrams render correctly. Submit only material you are entitled to share.
+Keep each pull request focused on a clear change. Explain your reasoning and check that the text, links and diagrams display correctly. Please submit only material you have the right to share.
 
-## Information to keep private
+## Keeping sensitive information private
 
-Do not publish private keys, seed phrases, tokens, customer information, unpublished commercial agreements, or private infrastructure details. Use synthetic or redacted examples.
+Use examples with sensitive values removed or replaced. Keep private keys, seed phrases, access tokens and customer information out of public issues and pull requests. The same applies to unpublished agreements and private infrastructure details.
 
-Report vulnerabilities through the [security reporting process](SECURITY.md), rather than a public issue.
+If you find a vulnerability, follow the [security reporting instructions](SECURITY.md) so we can discuss it privately.
 
 ## Contact
 
-Technical collaboration and partner inquiries: [dev@rocx.io](mailto:dev@rocx.io).
+You can reach the team at [dev@rocx.io](mailto:dev@rocx.io) to discuss technical work or a partnership.

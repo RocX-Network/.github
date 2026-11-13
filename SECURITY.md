@@ -1,17 +1,17 @@
 # Security reporting
 
-## Report privately
+## Reporting a vulnerability
 
-Send security concerns to **[dev@rocx.io](mailto:dev@rocx.io)**. Use a subject such as `Security report: <affected component>`.
+Please email [dev@rocx.io](mailto:dev@rocx.io) with a subject such as `Security report: <affected component>`.
 
-Include the affected public component or URL, the observed behavior, minimal reproduction steps, potential impact, and supporting evidence with sensitive values removed.
+Tell us which public component or URL is affected, what happened and how to reproduce it. Explain the potential impact and include supporting evidence with sensitive values removed.
 
-Do not include private keys, seed phrases, passwords, access tokens, or unnecessary personal information. Do not open a public issue containing vulnerability details. Contact us before sending material that cannot safely be shared by ordinary email.
+Keep vulnerability details out of public issues. Private keys, seed phrases, passwords and access tokens should never be included in a report. If your evidence needs a more secure way to share it, contact us before sending it by ordinary email.
 
-## Scope and status
+## What these repositories cover
 
-The public repositories currently provide documentation and community resources. Consult each future code repository's security policy and release notes for its supported versions and audit status.
+Our public repositories currently contain documentation and community resources. As code is released, its security policy and release notes will identify supported versions and any published audits.
 
-The public application is a testnet. A testnet label or a reference to ERC standards does not establish that a component is audited or suitable for production funds.
+The application currently runs on a testnet. References to ERC standards describe the technical direction and do not establish that a RocX component has been audited for production use.
 
-Please avoid disrupting services, accessing other users' data, or conducting financial transactions to demonstrate an issue. This page does not announce a bug bounty or a payment commitment.
+Please report issues without disrupting services, accessing other users’ data or carrying out financial transactions. We have not announced a bug bounty or payment commitment through this policy.
