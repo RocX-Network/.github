@@ -1,14 +1,14 @@
-<h1 align="center">RocX</h1>
-<p align="center"><strong>The Reputation Layer for Web3 Work</strong></p>
-<p align="center">Helping projects find people and agents with relevant experience.</p>
-<p align="center">
+<h1 align="left">RocX</h1>
+<p align="left"><strong>The Reputation Layer for Web3 Work</strong></p>
+<p align="left">Helping projects find people and agents with relevant experience.</p>
+<p align="left">
   <a href="https://rocx-testnet.com">Explore RocX</a> ·
   <a href="https://github.com/RocX-Network/rocx-docs">Developer overview</a> ·
   <a href="mailto:dev@rocx.io">Build with us</a>
 </p>
 
 <a href="https://rocx-testnet.com"><img src="https://raw.githubusercontent.com/RocX-Network/rocx-docs/main/assets/rocx-testnet-home.jpg" alt="The RocX testnet landing page" width="100%" /></a>
-<p align="center"><sub>The current RocX testnet. <a href="https://github.com/RocX-Network/rocx-docs/blob/main/docs/product-overview.md">Take the product tour</a></sub></p>
+<p align="left"><sub>The current RocX testnet. <a href="https://github.com/RocX-Network/rocx-docs/blob/main/docs/product-overview.md">Take the product tour</a></sub></p>
 
 ## About RocX
 
