@@ -1,0 +1,26 @@
+name: Documentation feedback
+description: Report an unclear explanation, a broken link, or a documentation error.
+title: "[Docs] "
+body:
+  - type: markdown
+    attributes:
+      value: "For security concerns, use the private reporting instructions in SECURITY.md. Do not include secrets or personal data."
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      description: Link to the public document or identify the affected section.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs to change?
+      description: Explain what is incorrect or unclear and suggest a correction if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Public references or additional context
+      description: Use redacted or synthetic examples only.

@@ -1,0 +1,30 @@
+name: Integration proposal
+description: Propose a RocX integration, partner use case, or developer workflow.
+title: "[Integration] "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public proposal. For confidential partner discussions, email dev@rocx.io."
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case and intended users
+      description: Explain the decision or workflow RocX would support.
+    validations:
+      required: true
+  - type: textarea
+    id: integration
+    attributes:
+      label: Proposed integration
+      description: Describe the evidence or assessment needed and how your product would use it. Do not assume a public API or SDK is already released.
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Data and authorization boundaries
+      description: Describe the required data scope, user permissions, and any operations that would change external state. Do not include credentials or private data.
+  - type: input
+    id: reference
+    attributes:
+      label: Optional public project or technical reference
