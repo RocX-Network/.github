@@ -1,47 +1,41 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RocX-Network/.github/main/assets/rocx-mark.png" width="88" alt="RocX" />
-</p>
 <h1 align="center">RocX</h1>
 <p align="center"><strong>The Reputation Layer for Web3 Work</strong></p>
-<p align="center">Activity. Evidence. Reputation.</p>
+<p align="center">Turn participation and work history into evidence others can use.</p>
 <p align="center">
-  <a href="https://rocx-testnet.com">Explore the testnet</a> ·
+  <a href="https://rocx-testnet.com">Explore RocX</a> ·
   <a href="https://github.com/RocX-Network/rocx-docs">Developer overview</a> ·
-  <a href="https://docs.rocx.io">Product docs</a> ·
   <a href="mailto:dev@rocx.io">Build with us</a>
 </p>
 
----
+<a href="https://rocx-testnet.com"><img src="https://raw.githubusercontent.com/RocX-Network/rocx-docs/main/assets/rocx-testnet-home.jpg" alt="The RocX testnet landing page" width="100%" /></a>
+<p align="center"><sub>The current RocX testnet. <a href="https://github.com/RocX-Network/rocx-docs/blob/main/docs/product-overview.md">Take the product tour</a></sub></p>
 
-### What we are building
+## Built on participation
 
-RocX connects Web3 activity and contribution history to reputation that projects, applications, and agents can use.
+RocX starts with original PoA contributions, community reviews, linked accounts, and supported DeFi activity. We are developing this foundation into project-specific reputation for **contributors, KOLs, and agents**.
 
-Our starting point is the RocX testnet: PoA contributions, community feedback, connected accounts, and supported DeFi activity. We are developing this foundation into evidence-backed profiles, task-specific matching, and reputation infrastructure for external products.
+Projects should be able to inspect why a provider fits a brief. Other applications should be able to use the same evidence within their own workflows.
 
-### From participation to trusted work
+## From activity to reputation
 
-1. **Build a record.** Connect original contributions, supported activity, and review history to a profile.
-2. **Assess fit.** Use relevant evidence to compare contributors or agents for a specific project and task.
-3. **Carry results forward.** Connect reviewed work outcomes to future matching and partner integrations.
+<img src="https://raw.githubusercontent.com/RocX-Network/rocx-docs/main/assets/activity-to-reputation.svg" alt="Planned flow from PoA activity through evidence and review to reputation, matching, and partner interfaces" width="100%" />
 
-The planned paid-work flow includes a project brief, provider selection, escrow funding, submission, evaluator review, and settlement. People and agents will have distinct identity and work records.
+The planned paid-work flow connects **matching, escrow funding, delivery review, and settlement**. Reviewed outcomes become evidence for the next task. People and agents retain distinct identity and work records.
 
-### Product and infrastructure
+## Product status
 
-| Area | Scope | Status |
-| --- | --- | --- |
-| RocX application | PoA posts, community feedback, linked accounts, DeFi activity, and Explore missions | Current testnet foundation |
-| Reputation and matching | Evidence by project, sector, and task; contributor comparison; work history | In development / planned |
-| Agent commerce | Agents as requesters or providers; evaluated work and escrow settlement | Planned |
-| Partner infrastructure | Reputation API, read-only MCP tools, and SDK distribution | Planned |
+| Available today | Next |
+| --- | --- |
+| PoA and community feedback | Context-specific reputation and KOL matching |
+| Linked accounts and supported DeFi activity | Agent requester/provider records and evaluated work |
+| Explore missions on the testnet | Reputation API, read-only MCP, and SDK |
 
-ERC-8004 is a design reference for agent identity, feedback, and validation. ERC-8183 is a design reference for evaluated jobs and escrow settlement. These integrations are planned; referencing a standard does not establish a production deployment or a completed audit.
+The reputation infrastructure and paid-work extensions are in development or planned. ERC-8004 and ERC-8183 are integration references, rather than claims of released contracts or SDKs.
 
-### For developers and partners
+## Build with RocX
 
-Start with **[rocx-docs](https://github.com/RocX-Network/rocx-docs)** for the product model, trust boundaries, integration direction, and roadmap. Public documentation comes first; implementation repositories and packages will be linked as they are released.
+**[Read the public documentation](https://github.com/RocX-Network/rocx-docs)** for the product model, architecture, integration direction, and roadmap.
 
-For integration discussions and technical collaboration: **[dev@rocx.io](mailto:dev@rocx.io)**.
+For technical collaboration and partner discussions: **[dev@rocx.io](mailto:dev@rocx.io)**.
 
-[Website](https://rocx-testnet.com) · [Product documentation](https://docs.rocx.io) · [X](https://x.com/RocX_official) · [Telegram](https://t.me/rocx_official)
+[Product docs](https://docs.rocx.io) · [X](https://x.com/RocX_official) · [Telegram](https://t.me/rocx_official)
